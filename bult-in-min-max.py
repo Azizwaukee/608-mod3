@@ -1,4 +1,4 @@
-def maximum(value1, value2, value3)
+def maximum(value1, value2, value3):
     """Return the maximun of three values."""
     max_value = value1
     if value2 > max_value:
@@ -9,7 +9,7 @@ def maximum(value1, value2, value3)
   
   maximum(12,27,36)
   
-def maximum(value1, value2, value3)
+def maximum(value1, value2, value3):
     """Return the minimum of four values."""
     min_value = value1
     if value2 > min_value:
